@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MainApplication<triprequest>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.officeai.triprequest.MainApplication",
+      "projectName": "triprequest",
+      "args": ""
+    }
+  ]
+}
